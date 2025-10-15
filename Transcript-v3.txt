@@ -1,0 +1,458 @@
+Charla de ingreso - Especialización en Inteligencia Artificial 24Co2025 LSE
+Tue, Oct 14, 2025
+
+0:00 - Unidentified Speaker
+Subtítulos realizados por la comunidad de Amara.org Hola, buenas tardes. Hola, buenas tardes.
+
+1:00 - Unidentified Speaker
+Buenas tardes.
+
+1:09 - Unidentified Speaker
+Hola, ¿qué tal?
+
+1:11 - lse posgrados
+Hola, hola.
+
+1:20 - Unidentified Speaker
+y y ¿Sí?
+
+2:31 - Federico G. Zacchigna
+y Subtítulos realizados por la comunidad de Amara.org Subtítulos realizados por la comunidad de Amara.org Buenas, hola a todos, ¿cómo están? ¿Se escucha y se ve bien?
+
+4:11 - Unidentified Speaker
+Sí, se escucha bien.
+
+4:13 - Federico G. Zacchigna
+Cualquier cosa pueden responder con los emojis que están ahí a disposición. Bueno, me presento, mi nombre es Federico Sachignas, yo soy el coordinador académico de las carreras que tienen que ver con inteligencia artificial en el laboratorio. Tenemos una serie de carreras en varias áreas, que luego las vamos a ir presentando. Y bueno, para hoy lo que tenemos, el cronograma es, primero vamos a hablar un poco de lo que es el régimen de cruzada e información general que deben saber, que esto lo va a presentar Kari, que está ahí conectada con el nombre de lse posgrados, que es una de las cuentas que usamos para dar clases y grabar y demás. Información general, que les recomiendo que presten atención porque va a ser muy útil, ¿sí? Después vamos a hablar cosas específicas de la carrera de Inteligencia Artificial, específicamente de la especialización, y algunas otras cuestiones más sobre el resto de las carreras relacionadas a la parte de Inteligencia Artificial, que me toca coordinar, y por último, esa parte, digamos, sería como también junto con lo que dice Karina, la parte central, y sobre el final vamos a hacer una un pequeño repaso de todas las carreras que tenemos en el laboratorio como para, a modo quizás de marketinero o de divulgación, como para que tengan un panorama un poquito más amplio de las carreras que orinamos, ¿sí? Bueno, por ahora no mucho más, ahora los dejo con Karin y luego nos volvemos a ver.
+
+5:53 - lse posgrados
+Bueno, me presento, bueno, es Karina, soy egresada de la CEIA. Ustedes son la Corte 24, yo soy egresada de la Corte 5, así que imagínense que pasa gente por acá, un montón. No es que egresé hace tantos años, porque imagínense, la carrera empieza cada dos meses empieza una corte nueva. Así que, por suerte, tenemos un montón de alumnos en la carrera y un montón de egresados también. Yo les voy a presentar un poco cuestiones administrativas yo. Después que egresé, me empecé a involucrar en el posgrado y de a poquito me metí acá y allá, así que hoy estoy dando clases en algunas materias, de hecho me van a tener en el primer bimestre en análisis de datos, pero ahora no estoy en ese rol sino que en el rol de administración porque estoy en todos lados, estoy en gestión, estoy en inscripciones coordinando unas chicas que bueno con las que hacemos todo el trabajo bueno de gestión y digamos intentamos de todas las cosas como tienen que salir. Así que ahora les voy a compartir una presentación. No tengo otro monitor, así que si me quieren interrumpir, preguntar lo que sea, o sea, hablen directamente. No levante la mano, nada, porque no los voy a ver.
+
+7:12 - Unidentified Speaker
+Bueno, ¿se ve la pantalla?
+
+7:14 - lse posgrados
+Sí, se ve.
+
+7:15 - Unidentified Speaker
+Bueno.
+
+7:18 - lse posgrados
+Entonces, bueno, bienvenidas, bienvenidos a todos a esta corte, como les decía, número 24 de la cella. Les voy a hablar de cuestiones generales para que cuando lleguen el primer día a clase sepan a dónde están parados, qué es lo que tienen que hacer, qué es lo que pueden, qué es lo que no pueden hacer. No es demasiado porque no los quiero como llenar de cosas que después, Al rato se las olvidan, así que les voy a decir, seleccioné acá las cosas más importantes para que tengan en cuenta. Para empezar, ustedes ya están preinscriptos a las 3 materias del primer bimestre, que ahora Fede les va a contar bien cuáles son, pero durante la carrera ustedes van a poder ir acomodándose al ritmo, según las necesidades, según los tiempos que tengan ustedes, van a poder inscribir en menos de tres materias por bimestre o en las tres materias o pueden cambiar. Bueno, van a poder ir viéndolo a medida que transcurra la carrera. Si me disculpan, yo no sé si Fede vos podés autorizar gente ahí a entrar?
+
+8:29 - Unidentified Speaker
+Yo estoy ahí autorizando.
+
+8:30 - lse posgrados
+Bueno, entonces como les decía, para empezar ustedes ya van a estar preinscriptos. En estos días les vamos a mandar un correo con la información para acceder a las clases y todo lo demás. Pero después, bimestre a bimestre, lo van a ir manejando ustedes. En particular, las optativas las van a elegir de acuerdo a la oferta. Todos los bimestres tenemos una oferta de optativas distintas, pero eso se lo dijo a Fede para que lo explique él. A lo que voy es que la carrera no es una cosa exactamente como figura en el plan y estricto, como lo ven, sino que ustedes lo van a poder ir acomodando según sus necesidades. Necesidades y sus tiempos. En lo que es la asistencia a las clases, son todas por Google Meet y la asistencia es obligatoria. Las clases son sincrónicas, siempre de 7 a 10 de la noche, cambian los días. Y la idea es que se conecten. Idealmente estaría bueno que prendan las cámaras. Eso lamentablemente sucede muy poco, pero eso es lo ideal y que tengan buenas condiciones de conectividad. Que puedan activar el micrófono para hablar. Siempre pasa que alguno no tiene conexión o simplemente, no sé, no le gusta hablar y, bueno, escriben el chat. También es válido, pero bueno, se recomienda que tengan una buena conexión, que tengan micrófono, que activen las cámaras y demás. Las clases quedan grabadas. Incluso después que terminan las clases, cada materia, las clases siguen disponibles para que ustedes las consulten en el momento que deseen durante toda la carrera. ¿Hasta ahí alguna pregunta?
+
+10:11 - Unidentified Speaker
+No.
+
+10:12 - Unidentified Speaker
+Todo claro.
+
+10:13 - Unidentified Speaker
+Bueno, como les decía, es obligatoria la asistencia.
+
+10:17 - lse posgrados
+Los feriados se dictan clases, no se suspenden las clases por día feriado. Lo que puede pasar es que si les cae una clase un se pongan de acuerdo con el docente para mover la clase otro día. Podría pasar. Normalmente se dictan el mismo día feriado. Ustedes tienen que tener asistencia el 75% que serían 6 clases. O sea, cada materia son 8 semanas, o sea, 8 clases. Y tienen que asistir a 6 por lo menos. Si no, si faltan a más de 2 clases, eso se computa como un plazo que ahora se los voy a explicar. Y en el caso, bueno, que el docente decida reprogramar una clase por el motivo que sea, porque es feriado y lo quiere cambiar o porque tiene otro compromiso, o lo que sea, que quiera mover la clase a otro día, supónganse que la clase es los lunes y la mueve a un martes, entonces ahí no se computa la inasistencia. ¿Por qué? Porque a lo mejor ustedes el martes tienen otro compromiso, es como que se los estuviera obligando a reprogramar su vida para ir a el martes. Entonces, en esos casos no se computa la falta. Y algo muy importante para que tengan en cuenta el tema de los aplazos. Hay tres formas en las que uno puede aplazar una materia. Una es, como les decía recién, con tres inasistencias. A la tercera se computa un aplazo. La otra es la obvia que no aprobaron la materia, se computa un aplazo. Las materias se aprueban con 4. Si no aprobaron, esa es la otra posibilidad de tener un aplazo. Y la tercera posibilidad es que a la mitad del bimestre decidan darse de baja. No es que simplemente se cancela la materia y la hacen otro día. O sea, se les computa un aplazo en esa materia. Eso sí después de la clase 3. Es decir, si ustedes arrancan un bimestre y a la semana 2 ningún problema, sean de baja y acá no pasó nada. Pero después de la clase 3, si ustedes se quieren dar de baja, ahí se les computa un aplazo. O sea, es lo mismo quedarse y desaprobar que darse de baja. ¿Se entiende? Estas opciones hay que tenerlas presentes porque a veces se las olvidan y se cuelgan y dicen, ah, yo no me di cuenta que no la quería hacer la materia, me puedo dar de baja y es tarde. Igual nosotros les recordamos. No, a la semana tres las recordamos. Acuérdense que estas últimas semanas que tienen posibilidad de darse baja, si no les gusta, si no tienen tiempo o lo que sea. Bueno. Eso es un aplazo. Por cualquiera de esas tres cosas que pasen, tienen un aplazo. Si acumulan tres aplazos, se quedan libres. Así que, ¿Me voy y ya está o empiezo todo de vuelta? Pero bueno, ese es el límite que se acepta para, más allá de los dos aplazos, el tercero es, lamentablemente, no pueden seguir cursando. Bueno, por otro lado, tenemos, las encuestas. Todas las clases ustedes van a tener la opción, totalmente voluntario, de responder una encuesta de la clase. O sea, termina la clase y ustedes tienen un link a un formulario donde pueden dejar un feedback de lo que sea, un feedback constructivo o algo de que les gustó mucho o algo de que no les gustó nada, lo que sea de la clase esa, puntual. ¿Y eso para qué sirve? Para que el docente pueda ajustar lo que haga falta antes de la clase siguiente o dentro del mismo Si ustedes dicen, la verdad que el profesor habla demasiado rápido, no le alcanza a entender lo que dice, y ustedes dejan eso en la encuesta, entonces el profesor va a poder tener la oportunidad de decir, bueno, está bien, voy más despacio, o lo que sea, dentro del bimestre. Si ustedes no lo dicen y esperan a que termine la materia, perdieron la oportunidad de que ese ajuste se haga porque es algo fácil de corregir. Hay veces que el feedback que queremos dar no es fácil de corregir dentro del bimestre, pero muchas veces, Entonces, sí. Entonces, está buenísimo que aprovechen esta instancia de la encuesta de cada clase. Por supuesto, como dice acá, anónima y voluntaria. Después, cuando termina el bimestre ICI, son las encuestas obligatorias. Para todas las materias que ustedes cursaron, hay una encuesta obligatoria donde van a tener que dar su feedback de tanto las condiciones del aula, o sea, que se ve bien, que se escucha bien al profesor, que la pizarra que usa se entiende, no sé, ese tipo de cosas, el material que usa, que el profesor conoce la materia, que el profesor despierte interés, bueno, cuestiones generales de la clase y tienen la opción, la opción no, estamos obligando a que pongan en los comentarios algo de valor, ya sea siempre constructivo, o sea, si algo no les gustó, poner solamente estuvo mal, estuvo mal, estuvo mal, no les sirve a nadie. O sea, si algo no les gustó, poner por qué no les gustó o qué harían ustedes en vez de hacer esto. Así que todo es valioso. Si ustedes ponen algo constructivo, se hace todo lo posible para mejorarlo. Ustedes no tuvieron la oportunidad, pero los próximos alumnos van a tener el beneficio de esos ajustes y esos cambios que se van haciendo. Así que es súper importante que pongan algo de valor en esos comentarios, ya sea positivo o no tan positivo, lo que sea. Y por último, esto todavía es muy temprano para que les dé los detalles, pero cuando ustedes están haciendo el trabajo final, también se les manda encuestas de cómo viene el vínculo con el director de sus trabajos finales. Y estas encuestas son obligatorias también. ¿Alguna pregunta? No. Bueno, con respecto a los plazos, se establece un plazo máximo de dos años, es decir, 10 bimestres para recibirse. La idea es que puedan idealmente todas las materias durante los primeros cinco bimestres, las obligatorias y las optativas, y que el segundo año sea como un plazo que ustedes se tomen para hacer el trabajo final. A veces las materias se demoran un poco, no es que las hacen todas en cinco bimestres, bueno, cada uno se va organizando, pero la idea es que al cabo del los días bimestres, ustedes tendrían que estar recibidos. Si eso no sucede, existe la opción de solicitar una prórroga, que para eso hay que hacer todo un trámite, que tampoco se los voy a explicar ahora porque no tiene sentido a esta altura si apenas están comenzando. La idea es que no lleguen a esa instancia. Pero, bueno, si llegan, sepan que existe la opción de pedir una prórroga. Y una cosa que tengan en cuenta es que si ustedes, por ejemplo, Por ejemplo, en un bimestre, por el X motivo, no pueden cursar o no quieren o lo que sea. No hay problema. Pueden no cursar nada ese bimestre, pero eso no les extiende los plazos. Es decir, si ustedes tienen hasta diciembre, por decir cualquier cosa, diciembre es el año que viene para recibirse. Y dicen, bueno, el próximo bimestre no voy a cursar, no es que se les extiende el plazo hasta abril del año siguiente. No, el plazo sigue siendo diciembre. Ustedes se organizan y reparten. En sus tiempos y eligen cómo hacer la carrera. El plazo no se mueve. Algo que no lo tengo anotado acá, pero de paso me acordé, es que ustedes al anotarse acordaron un plan de pagos de 10 cuotas. Si ustedes dejan de cursar, o sea, el plan de pagos no se mueve, no se modifica, no se pausa la cuota, tampoco se le agregan cuotas. Es decir, el plan ese que ustedes acordaron es fijo y es independiente de cómo ustedes cursen. Si cursa más rápido, más despacio, y dejan meses en blanco sin cursar, es otra cosa que no tiene nada que ver con lo que ustedes acordaron, pagar con el sector de pagos.
+
+18:48 - Unidentified Speaker
+¿Está bien?
+
+18:49 - Unidentified Speaker
+Sí.
+
+18:49 - Unidentified Speaker
+Buenas.
+
+18:49 - Unidentified Speaker
+Una consulta.
+
+18:50 - Martín Madrid Wagner
+Y esto que decías de que se pueden extender las materias y tal, ¿cómo interfiere con el segundo año de la maestría para aquellos que optan seguir con la maestría o el segundo año?
+
+19:04 - lse posgrados
+La maestría no se puede hacer hasta que vos no terminas la especialización, o sea, idealmente vos tendrías que terminar hasta incluso la defensa del trabajo final tiene que estar hecha para que vos puedas empezar la maestría. Esto se lo puede decir mejor Fede, pero hay excepciones en las que, por ejemplo, vos ya hiciste todas las materias, estás haciendo tu trabajo final, lo estás por defender el mes que viene y justo arranca la maestría y bueno, les han permitido a algunos chicos arrancar la maestría cuando todavía les falta defender el trabajo final. O sea, como que están ahí en el límite. No se recibieron, se están por recibir y arranca la maestría. Eso se permitió porque la maestría se abrió solamente dos veces hasta ahora. Entonces, para no perder esa oportunidad de que arranquen, se les permitió hacerlo. Pero idealmente tendrían que terminar la especialización con defensa incluida antes de arrancar el segundo año.
+
+20:00 - Unidentified Speaker
+Sí, había otra pregunta.
+
+20:02 - Gabriel Quiroga
+Sí, yo tenía una consulta sobre esto que decías del plan de pago de las cuotas, que dijiste que eran 10 cuotas y yo sí, entonces si cursamos por ejemplo una materia a un bimestre o dos materias, por lo que no lo hacemos en cinco bimestres, serían solo 10 cuotas igual.
+
+20:22 - lse posgrados
+Sí, o sea, las cuotas son las que vos acordaste, no se mueven, y eso es independiente cómo curse vos las materias. Perfecto, gracias. Otra pregunta.
+
+20:44 - Unidentified Speaker
+Sí.
+
+20:46 - Unidentified Speaker
+Sí, Luis, adelante.
+
+20:51 - Federico G. Zacchigna
+Luis, si estás hablando no te escuchamos, ¿eh?
+
+20:59 - Unidentified Speaker
+A lo mejor no tiene micrófono.
+
+21:02 - Unidentified Speaker
+No sé.
+
+21:03 - Federico G. Zacchigna
+Bueno, pasamos a Mariano, después volvemos a Luis, sí, ahora te atendemos, ¿sí? Mientras Mariano hace tu pregunta, Luis, cuando termine Mariano, respondemos la tuya, y si no, escríbela en el chat.
+
+21:19 - Unidentified Speaker
+Hola, buenas tardes.
+
+21:21 - Mariano Jauffroy
+Hola. Mi consulta sería respecto del plazo mínimo para recibir no porque tenga algún apuro, sino como, o quizás, ¿cuál sería el promedio de los alumnos? ¿Terminan la cursada y en cuánto tiempo se hace el proyecto?
+
+21:36 - lse posgrados
+Sí, eso quizás ahora, cuando Fede explique un poco la carrera, cómo funciona, por ahí te va a quedar más claro, pero menos de cinco bimestres es imposible y es raro que alguien se reciba en cinco bimestres, es bastante raro, lo más no sé si lo más usual, pero lo mejor que pueden aspirar los alumnos es a recibirse en seis bimestres, a lo mejor. Quizás es lo más usual para aquellos que vienen al ritmo súper bien y no frenan para nada y están dedicados a su carrera, capaz que en seis bimestres se reciben. Pero después depende mucho y, o sea, esos son los te diría. Bueno, ahora Federico, por ahí te va a quedar más claro.
+
+22:24 - Federico G. Zacchigna
+Sí, luego lo repasamos, lo repasamos bien con algún ejemplo inclusivo o algo así, así te va a quedar bastante claro, ¿sí? Bueno, buenísimo, muchas gracias. Dale. Luis, a ver si podés ahora hacer la pregunta o dale. Ah, está en el chat.
+
+22:39 - Unidentified Speaker
+Te la leo, Cari.
+
+22:41 - Federico G. Zacchigna
+No me ha dado claro el régimen de cruzada de materias contra el desarrollo del trabajo final. Tenía entendido que los últimos maestros se dedican al desarrollo del toque final.
+
+22:52 - lse posgrados
+Sí, también lo vemos ahora en un ratito, que con el cronograma que va a ser, vamos a tener soporte gráfico para explicarlo mejor, ¿sí? Adelante, Cari. Sí. Bueno, esto simplemente para que tengan una idea de cómo funciona. Después que hicieron todas las materias, hicieron su trabajo final y defendieron el trabajo, Entonces, tienen que hacer el trámite del título. Una cosa, no tengo presente si hay gente que no es de Argentina en esta corte. Me parece que no, pero no estoy segura. No, sí, hay. Cuando no tienen título argentino, lo importante es que lo apostillen y lo legalicen. Y son temas, lo legalicen por la Universidad de Buenos Aires y son trámites que llevan tiempo. Entonces, esto les recomendamos que no esperen hasta que se hayan terminado todo para hacerlo. Lo pueden ir haciendo desde ahora. Cosa que el día que terminan su trabajo final, estos papeles ya están en orden. Más que nada, para que no tengan que después esperar un montón de tiempo, es algo que ya lo pueden ir haciendo eso para que lo sepan. Y acá unas cuestiones más generales para que también tengan en cuenta. Todos proporcionaron un correo de Gmail o de FIUBA cuando se anotaron, así que Estamos bien. El tema es que a veces, por ejemplo, el Meet a veces genera problemas con cuentas que no son de Gmail. No sé por qué, pero a veces dicen, bueno, no me deja entrar, no sé, cosas así. Pero si todos entran con Gmail, ya está. Tengan en cuenta que a las clases se van a tener que conectar con el mail que ustedes dieron, con el mail que les aparece en la, ¿cómo se llama la planilla? Ustedes todavía no tienen la planilla de notas. Les vamos a compartir esta semana las planillas de notas que son donde queda registrado todo lo de las materias que están cursando. Y ahí está el mail con el que ustedes se registraron. Ese mail es el que tienen que usar para conectarse al Meet. Si de casualidad o por error pusieron, ustedes vieron un mail que no es el que van a usar, avísennos porque el script que toma asistencias automáticamente va a mirar que en el Meet esté conectada una persona con ese correo. Si ustedes entraron con por correo les va a figurar ausente.
+
+25:10 - Cesar Orellana
+Tenemos una pregunta de Cesar. Sí.
+
+25:13 - lse posgrados
+Mencionó usted que para los alumnos extranjeros, con respecto al título, tienen que hacer este trámite. Para aquellos alumnos que tengan, no sé si es en la Universidad de Buenos Aires, también tenemos que hacer un cierto tráfico, ¿no es así?
+
+25:35 - Cesar Orellana
+La legalización por la Universidad de Buenos Aires, sí.
+
+25:39 - lse posgrados
+Bien. Bien, y eso lo podemos ir haciendo desde allá.
+
+25:42 - lse posgrados
+Es un soltero momento, sí. Sí, está correcto.
+
+25:46 - Unidentified Speaker
+Perfecto.
+
+25:46 - lse posgrados
+Muchas gracias.
+
+25:47 - Unidentified Speaker
+De nada.
+
+25:47 - lse posgrados
+Bueno, y esto más que nada es una recomendación, que cuando manden un correo o reciban un correo del tema que sea, si hay gente copiada, que cuando respondan, copien a todo el mundo para que bueno, todos estén o estemos enterados de algo que está pasando o que se está discutiendo, no queden conversaciones perdidas por ahí, porque somos varias personas y hay varios sectores involucrados en todo el posgrado, entonces está bueno que cuando un tema es transversal a los sectores que, bueno, todos estemos ahí y se resuelvan más fácil las dudas, son las cuestiones que haya que resolver.
+
+26:32 - Unidentified Speaker
+Sí.
+
+26:32 - Unidentified Speaker
+Sí.
+
+26:33 - Gabriel Quiroga
+Yo quería consultar también cuál sería el correo o el medio para consultas, por ejemplo, administrativas o de cursada. Ahora va.
+
+26:46 - lse posgrados
+Ah, OK. Listo. Gracias. Bueno. Tenemos, acá les cuento, la dirección del laboratorio está Acá están ARIEL LUTENBERG y Pablo Gomez. Acá están sus correos. Es raro que los tengan que escribir por algo, pero, bueno, ellos están disponibles y siempre abiertos a consultas si ustedes necesitan. Después, los coordinadores de las carreras. Acá está Federico, pero también pusimos a Celeste y a Cristian, que son coordinadores de la especialización en internet de las cosas y en sistemas embebidos, porque son las otras carreras que tienen, junto con la CEIA se complementan para distintas maestrías. No sé si eso vos lo tenés en tu...
+
+27:29 - Unidentified Speaker
+Sí, después lo comento también.
+
+27:31 - lse posgrados
+Por eso les pongo acá el contacto de ellos también. Después, bueno, en gestión académica, como les decía, yo estoy en gestión junto con Sol y Paloma. También estamos en inscripciones. En pagos está Jorge, con el que todos ustedes habrán hablado. En títulos, si tienen dudas de títulos, de la postilla, de la legalización o lo que sea, o también con temas de prórrogas, que todavía no es el caso no lo van a necesitar. Hablan con Virginia. Después lo tenemos a Andrés, que no tienen que comunicarse, no tienen que hablar con Andrés, pero lo pusimos acá para no olvidarlo. Y estos son, somos todos los que estamos en los distintos sectores del laboratorio. Así que acá están los correos. Según lo que necesiten, se pueden dirigir a cualquiera de estos. Más que nada, mientras se estén cursando, va a ser siempre en académica, principalmente. Después, en cada materia que cursen, ustedes van a tener el contacto de los docentes. Y también van a tener toda la lista de mails de sus compañeros. Así que enseguida, cuando empiecen a cursar, van a poder ponerse en contacto para, no sé, para hacer grupo de WhatsApp o grupos de trabajo, lo que sea.
+
+28:42 - Unidentified Speaker
+¿Alguna pregunta?
+
+28:43 - Gabriel Quiroga
+Esto después nos lo van a pasar los correos, imagínense.
+
+28:47 - lse posgrados
+Sí, sí, sí, después les compartimos la presentación. Vale, gracias. Si no hay preguntas, las dejo con Fede, porque bueno, el tiempo es cortito. Igual después, que termine Fede, me puedo volver a preguntar lo que sea, ¿sí?
+
+29:07 - Unidentified Speaker
+Bueno, muy bien.
+
+29:09 - Federico G. Zacchigna
+Voy a presentar. Por favor, confirmenme, díganme que se ve bien. Bueno, sí, acá tenemos la charla para los ingresantes, los que están nuevamente en los contactos, pero tomen los que puso Cari, que está un poquito más completo. Bueno, la introducción, lo que vamos a ver ahora si es específico ya de la carrera, tiene que ver con el cronograma y algunos recursos útiles que van a tener a mano durante la cursada, recomendamos que los vayan viendo o que los utilicen. Vamos a hacer un recorrido por las materias, luego vamos a presentar un poquito cómo es el recorrido o el proceso para el desarrollo del trabajo final, y luego opciones de cómo continuar una vez que termine la especialización. Como continuar, una vez que terminen la especialización, aquellos que tengan ganas de seguir, tienen varias opciones, y luego un recorrido, como decíamos, del resto de las carreras que se ofrecen en el posgrado, como ya les vio, vivimos con Kari ahí, había unas cuestiones de sistemas embebidos, en Internet de las Cosas, que ya les pasó los contactos de los coordinadores, si eventualmente el trabajo final que hacen, por alguna razón, suele suceder, está por ahí tocando algunos temas de internet, las cosas del sistema CMBIOS también pueden aprovechar a los otros coordinadores para hacerles consultas, ¿sí? A pesar de que estén en la carrera de inteligencia artificial, los coordinadores van a estar disponibles para responderles las consultas, ¿sí? Bueno, su objetivo es un poco parecido a lo que acabamos de hacer, que se familiaricen con el cronograma académico, que conozcan el reglamento que es importante, la intranet, algunos otros recursos, Vamos a ver que van a haber diferentes ramas de la inteligencia artificial, está bueno que también sepan cuáles son, para también centrar su trabajo final en alguna de estas, entender digamos qué cadena de materias, cuáles materias son interesantes para hacer para su trabajo final, que conozcan también las optativas, que esas son justamente las que pueden elegir más adecuadas, en el tema que van a desarrollar, luego cuáles son las condiciones para poder ir cursando todas las materias relacionadas al trabajo final, si algunos seguramente ya estuvieron todos revisando el cronograma, ven que hay algunas materias que son de trabajo final, así que bueno, hay algunas condiciones para poder cursarlas, que conozcan las opciones para continuar los estudios y luego que conozcan la oferta completa de las carreras además de la de Inteligencia Artificial, ahí hay un pequeño error. Bueno, el cronograma, si lo estuvieron viendo, tenemos el primer remestre, Inteligencia Artificial, análisis de datos, análisis matemático, bueno, vamos a ir repasándolo en realidad por ramas ahora en breve, pero bueno, tienen el cronograma El cronograma, como ven, está planteado en cinco bimestres. Esto es un año, ¿sí? Porque hay un bimestre que es de receso. Las fechas están acá a disposición, ¿sí? Ya el bimestre 1 empieza ahora. Luego les toca el receso de verano, bimestre 2, 3, 4. El bimestre 4, el año que viene, que es el tercero, digamos, tercer bimestre de 2026, incluye un receso de una semana. Más o menos a mitad de año y luego el quinto trimestre ¿Sí? De para el cronograma que les toca a ustedes a la corte veinticuatro bien entre los recursos útiles además del cronograma ¿Sí? Van a tener la página web en la página web siempre va a haber información eh también van a tener lo que es el reglamento cualquiera duda que tengan en también nos pueden consultar a nosotros pero bueno eventualmente como ya lo tienen disponible quizás es más fácil ir al reglamento que van a tener los contenidos de las materias obligatorias que eso está bueno que los repasen también para que entiendan un poco qué temas van a ir viendo en cada una de las materias además de solamente quedarse con el nombre de la materias optativas, eso quizás es un poco más importante para que ustedes sepan elegir qué materias quieren hacer. También a través de la página web hay un lugar, ¿sí? Donde pueden consultar, ¿sí? Los cursos, ¿sí? Consultar los cursos obligatorios que se van a dictar, optativos, para cada cohorte, ¿sí? Bueno, tienen varias opciones, lo que sí, cuando hacen estas consultas, tarda un ratito, ¿sí? Lo voy a mostrar ahora porque por ahí en algunos segundos, después en el final si quieren les muestro, pero ese plan es básicamente un listado de los cursos, por ejemplo, que se van a dictar el bimestre que viene. Para el caso de la carrera de Especialización de Inteligencia Artificial, todos los cursos obligatorios se dictan todos los bimestres, así que ahí no hay mucho misterio, ni mucho que consultar, pero por ahí para los cursos optativos y otras cuestiones, si les resulta de utilidad tener el panorama, ¿sí?, para poder organizarse y que de repente un curso optativo no sea muy seguido, que no se les escape, digamos, ¿sí? Y por último van a tener la intranet, las capturas me quedaron viejas de la vieja intranet, pero la idea es que, desarrollamos una nueva, la idea es que ahí ustedes van a tener acceso a toda su información ya personalizada, de materias que tienen aprobadas, de aplazos, links a todas las materias, a las planillas de las materias, entonces van a tener toda la información centralizada, también información de sus pagos, cosa de que ustedes quieren saber cualquier cosa de cómo están parados o cómo están registradas las materias que tienen aprobadas a plazos y demás, lo pueden hacer a través de la intranet, así como también durante el proceso de hacer el desarrollo del trabajo van a tener que cargar por ahí los currículums de sus directores, co-directores y cuando estén por defender de los jurados también, todo eso lo pueden hacer a través de la intranet. Bueno, vamos a hacer un pequeño recorrido, sí, por las materias, como les decíamos, tenemos las materias básicas, que por básicas, no porque sean básicas en sí, sino porque son de ciencias básicas. Tenemos análisis matemático y probabilidades estadísticas. Luego tenemos las materias que son introductorias a la inteligencia artificial, es justamente una materia de toda inteligencia artificial, análisis de datos, aprendizaje de máquina, donde, bueno, en aprendizaje de máquina se hace, bueno, análisis de datos es todo lo que está más relacionado a la preparación de los datos y análisis de los mismos, un análisis exploratorio, en aprendizaje de máquina ya se ven los algoritmos por ahí más clásicos y en aprendizaje profundo ya se empiezan a ver justamente los algoritmos que trabajan con modelos profundos como redes artificiales, redes convolucionales, transformers y todas estas redes que hoy en día conocemos o que van a conocer. Bueno, tenemos la parte de lo que es procesamiento del lenguaje natural. Quizás acá es donde empezamos a tener que pensar un poco más y planificar un poco mejor la carrera. En lo que es la carrera de especialización solamente tenemos el procesamiento del lenguaje natural 1, pero como materias optativas tenemos el procesamiento del lenguaje natural 2 y 3. Entonces, en caso de que quieran seguir ese ramo, por ejemplo, ya ven que tienen que empezar a planificar para ver cuándo se dictan estas materias y cuándo empiezan a poder cursar estas, las optativas, ¿sí? Y de entrada, por ejemplo, esto sirve como ejemplo para ver que toda la rama de Procesamiento del Lenguaje Natural, si quisieran hacer las tres materias, que no es necesario, porque pueden hacer la 1 y la 2 nada más, pero si quisieran hacerlo, el curso optativo 2 deberían moverlo a un sexto bimestre, ¿sí? Porque son correlativas. Entonces, bueno, para que lo tengan en y que vayan organizando un poco la cruzada de acuerdo a las necesidades tanto de su trabajo final o a sus intereses. Luego tenemos la rama que va por lo que es visión por computadora, visión por computadora 1 y 2 están como obligatorias en la CEIA, y la tercera de visión por computadoras es una materia optativa, Esta no haría problema, si, en acomodarla en el cronograma normal, si, dentro de los cinco bimestres o el año. Pero bueno, sí, también hay que ver, porque es una materia que tampoco se da todos los bimestres, así que también hay que planificarlo un poco, ¿sí? Sí, alguien levantó la mano.
+
+38:48 - Martín Madrid Wagner
+Sí, quería preguntar si los cursos adaptativos o por demanda es fijo y entonces hay que ir viéndolo sobre la marcha.
+
+38:57 - Federico G. Zacchigna
+Es un poco por demanda, pero es histórica. Sabemos los cursos que más, digamos, más populares son, los que más interés tienen y esos los ofrecemos más seguido, ¿sí? Como por ejemplo los de Procesamiento del Lenguaje Natural 2, es una materia que la damos bastante seguido, Visión por Computadora 3 también, ¿qué más? Bueno, ahí va el que se ven un poco más seguido. Ya de entrada, como te digo, si a vos te interesa algo en particular y de repente, ahora cuando podés ya entrar y ver los cursos optativos que hay, si ves alguno en particular, ya podés ir consultándonos, che, este cada cuánto se da, ¿sí? Como para tener en cuenta que tan atento tenés que estar. Y en relación a si están fijos o no, tratamos de ponerlos lo antes posible, cuando podemos armar el cronograma, ¿sí? Ya los ponemos, pero varios de los cursos optativos que ustedes pueden tomar para lo que es la carrera de especialización forman parte también de la maestría. Entonces, entonces ahí es como que a veces no los podemos planificar con, están atados quizás al comienzo, ¿no? De una corte de maestría, ¿sí? O sea, es una corte de maestría, en algunos bimestres ya están fijos. Entonces, por las dudas, siempre consulten si tienen interés o en algún curso en particular, especialmente si es un curso que es un poquito más, por decirlo, más raro, y si es más raro lo vamos a dar menos veces al año, entonces así lo tienen más o menos presente, ¿sí? Todas esas cosas, no duden en escribirnos y preguntarnos si bien sepamos la información, se la pasamos. Para saber el interés de cada uno sobre los cursos.
+
+40:52 - Martín Madrid Wagner
+Sí, perdóname que te interrumpí. Es quizás una pregunta medio obvia, pero son, existen como correlatividades, ¿no? Porque no podría, hagamos de cuenta que se dan las dos materias, ¿no? En el mismo trimestre, el proceso NLP2 y 3.
+
+41:08 - Federico G. Zacchigna
+¿No tiene sentido cruzarlas juntas? No, justo las de proceso perdón, las de... Ahora, ¿estás hablando de estas dos, por ejemplo? No, estoy hablando de las genéricas que tengan 1, 2 y 3.
+
+41:21 - lse posgrados
+Si querés le contesto yo, Fede.
+
+41:23 - lse posgrados
+Vale. Claro, no tiene sentido en el sentido, o sea, porque va a haber conocimientos asumidos en el procesamiento, en este ejemplo, ¿no? En el procesamiento 3 van a asumir que conoces determinadas cosas que se dan en el procesamiento 2. Entonces, si bien no hay forma Y, por lo tanto, no es un problema, no es un problema. Basándonos en los contenidos que tienen las materias, nosotros les recomendamos, mirá, por ejemplo, serie de tiempo, no te anotes si no hiciste probabilidades. Si vos te querés anotar igual porque probabilidades ya la viste en carrera de grado y la tenés muy presente, o sea, no pasa nada, te vamos a dejar. Pero vas a estar avisado que vas a tener esta cuestión de conocimientos asumidos.
+
+42:33 - Federico G. Zacchigna
+Exactamente. Curso bajo su propio riesgo, sería.
+
+42:35 - Unidentified Speaker
+Eso.
+
+42:36 - Federico G. Zacchigna
+De alguna manera, claro, tenés que Justificarlo, decir, che, yo estoy dispuesto, entiendo los riesgos de cursar esta materia Sí, o soy pensador de probabilidades en la CUBA, qué sé yo, porque nos ha pasado también que dan clases de esas materias y entonces dicen, dejame cursar, no hay ningún problema Exacto Bien, qué más, tenemos también la rama de lo que es operaciones de aprendizaje de máquinas, que está, bueno relacionado a lo que tiene que ver con el despliegue, escalar los algoritmos, que digamos que una vez que uno diseña un algoritmo, poder realmente ponerlo en producción, ¿sí? Ya sea corriendo en una nube, o de manera local, o lo que sea, las dificultades que uno tiene al momento de ponerlo en producción, desplegarlo, ponerlo en producción, y escalar una cierta aplicación, que utilice ya. Bueno, esto se ve en estas materias. Acá, por ejemplo, están marcados, digamos, los huecos que utilizaría, pero si ustedes quisieran hacer esto sin retrasarse tranquilamente, podrían poner el curso optativo en lugar de procesamiento de lenguaje natural o en lugar de visión por computadora 2, ¿sí? Para que el cronograma, digamos, siga siendo posible de cumplir en en cinco semestres ¿Sí? Eh todavía hasta ahora estamos reorganizando los los cursos y demás y estamos asumiendo que todo más o menos se termina en cinco semestres pero ahora vamos a ver que hay un poquito más de de opciones ¿Sí? Eh bien después tenemos eh diferentes ofertas de materias optativas ¿Sí? Que que por ahí no están atadas a las áreas que se ven específicamente en lo que es la carrera de especialización, que sería Procesamiento de Lenguaje Natural, Visión por Computadora y Operaciones de Aprendizaje de Máquina, en donde las tomamos como, digamos, como esos grupos de tres materias así como correlativas, sino que son otras materias que por ahí están más aisladas o por ahí son un conjunto de dos como vamos a ver algunas, algunas podrán ser más informativas, hay algunas, hay distinto tipo de materia, ¿sí? O por ejemplo agrodigital es una materia pensada para explicar las problemáticas del agro a gente que está cursando la carrera de inteligencia artificial y nada, puede ser bastante útil, no sé, para pensar a veces en proyectos finales o o simplemente para conocer un poco cómo se aplica y qué utilidad tiene la inteligencia artificial en el labio, ¿sí? Tenemos algoritmos evolutivos 1, no figura la 2 porque todavía no la estamos ofreciendo, pero bueno, en algún momento quizás se ofrezca. El orden de estas baterías está en orden alfabético por ahora, así que no hay nada, no hay una cuestión de cuál es más importante o menos importante. Las que mencionaba recientemente, que son análisis de serie de tiempo 1 y 2, que esta sí sería, es conveniente cruzarlas después de probabilidad estadística, como esto también tranquilamente si quieren empezar a cruzarla pueden mover un curso optativo, adelantar un curso optativo para empezar a cruzarla, se dedican a justamente todo lo que tiene que ver con datos que están ordenados temporalmente y en donde ese orden es bastante importante, por ejemplo para hacer algún pronóstico o para poder que va a pasar justamente a continuación. Hay varias cuestiones ahí extra que hay que analizar cuando las series de datos son series de tiempo. Aprendizaje por refuerzo, que como verán, como van a ver, hay tres grandes líneas de aprendizaje, aprendizaje supervisado, no supervisado y por refuerzo. Y después hay sub líneas, digamos, de aprendizaje semisupervisado, otras cosas un poco más extrañas, pero bueno, en esto se ven un modelo de aprendizaje diferente, las que es de base de datos, también que es una materia que puede ser bastante útil al momento de poner en producción algún producto, materia de ética, una materia, de alguna manera con diferentes profesionales que trabajaban específicamente en cuestiones de la agricultura y de alguna manera presentaban a fondo, digamos, las soluciones. Era un poco más informativa, pero bueno, estaba, la verdad que tuvo bastante éxito. Vamos, no sabemos bien cuándo la vamos a volver a dictar igual, pero como siempre les digo, nos pueden consultar. Eligencia artificial en básicamente es como poder implementar o desplegar algoritmos de inteligencia artificial y generar la inferencia nomás en plataformas con recursos limitados, no en la nube, no en una PC con hardware gráfico, sino en recursos más pequeñitos, cosas de sistemas embedidos, sí, justamente. Una materia que se llama neuronales informadas por física, también una materia que la cursan no muchas personas, pero las que la cursan les gusta mucho, es muy interesante, pero bueno también requiere de bastante conocimiento de matemática y cuestiones de ecuaciones diferenciales para poder cursarla, y los docentes son algo estrictos, no le hacen eso. Y bien, hasta acá con estas las materias digamos, normales, y lo que queremos pasar ahora es a las que son las materias que están más dedicadas a la parte de gestión y del desarrollo del trabajo final. Estas materias son estas tres, gestión de proyectos, taller de trabajo final A y taller de trabajo final B. Y acá es donde más vamos a empezar a explicar, sí, todas esas consultas que habían hecho al principio sobre modificar un cronograma todas estas cuestiones. Por ejemplo, podemos empezar con... Bueno, primero, gestión de proyectos se cursa en el segundo trimestre y para eso van a tener que tener un proyecto definido, una idea de proyecto definido. Y luego, taller de trabajo final A, en el cuarto, y taller de trabajo final en el quinto bimestre. En general pedimos que haya un bimestre entre gestión de proyecto y taller de trabajo final A por una cuestión que ahora vamos a poner los detalles, pero es que para poder pulsar taller de trabajo final A tienen que tener un cierto grado de avance, entonces es medio raro que lo logren apenas termine. Si en gestión de proyecto terminan de escribir su plan de trabajo, inmediatamente después no van a de arrancar taller de trabajo final A, salvo quizás, caso muy especial, si les toca por ahí un receso de verano en el medio, o que hayan hecho, que por alguna razón hayan tenido que recursar a esta gestión de proyectos porque cambiaron de tema y el tema de trabajo lo tienen avanzado en realidad, entonces, si no justifican que el plan de trabajo en realidad se terminó haciendo medio retroactivo, y que el grado de avance es real, también podrían cursar. Pero en definitiva, a lo que voy con esto es que acá hay un camino crítico, que es que si para el segundo bimestre ustedes no tienen una propuesta de trabajo aprobada y pueden empezar a cursar gestión de proyectos, ya se corre esa materia, y una vez que se corre gestión de proyectos, ya inmediatamente después, sí o sí, hay un bimestre extra que tienen que ocupar, digamos, por lo menos para taller de trabajo final. Esto no es un problema, como les decimos. Ustedes pueden realmente reacomodar el calendario como quieran, inclusive hay gente, podrían empezar el primer trimestre y si el segundo trimestre no tienen proyecto definido, pueden cursar una materia optativa en vez de gestión de proyectos, pueden cursar solamente dos materias y dedicar ese tiempo extra que tienen a pensar el proyecto, pensar un poco mejor a qué quieren dedicarse y darle un poco de forma, hacer la propuesta de trabajo final. La propuesta de trabajo final es solamente una idea, que es la que la validamos, que pasa por un proceso de evaluación para verificar la viabilidad, y por ejemplo en el tercer trimestre comenzar con gestión de proyectos. Eso es totalmente válido, eso queda a criterio tienen consecuencias de que se estira un bimestre más la cruzada, pero que en ocasiones muchos prefieren elegir ese camino, y a veces es el mejor camino para tratar de empezar con un proyecto que no está del todo bien pensado, solamente para cumplir con los plazos, ¿sí? Como les decía Kari, terminar en cinco bimestres es bastante exigente, desde el día de hoy ya tienen que empezar a pensar un proyecto, cursar tres materias de tres horas por semana, ya te respondo, ¿sí? Cursar tres materias de tres horas por semana, sumado a los trabajos prácticos, sumado a que si trabajan puede ser un ritmo medio exigente, entonces el ritmo de trabajo es intenso, justamente sobre todo si hacen alguna actividad más. Si no hacen ninguna actividad más es totalmente hable terminando a cinco semestres sin problema. Sí, Lucia, creo que había levantado la mano.
+
+52:47 - Lucia T. Capon Paul
+Sí, hola.
+
+52:48 - Unidentified Speaker
+Sí, hola.
+
+52:48 - Lucia T. Capon Paul
+Consulta, tal vez igual durante la cursada de gestión de proyectos se me responde, pero aprovecho y adelanto la pregunta. ¿Se puede hacer para trabajo final algo relacionado que esté vinculado a la empresa donde estoy trabajando actualmente? ¿Han tenido esa experiencia? ¿Hay algo que me digan, ojo con tal cosa?
+
+53:08 - Federico G. Zacchigna
+Totalmente, de hecho, hay una, creo, si no me confundo, ahora a continuación hay unas filminas que hablan de los tipos de proyecto final, y uno es uno personal, uno vinculado, digamos, a la empresa o algún vínculo previo, y otro es lo que llamamos el programa de vinculación, ¿sí? Pero ahora vamos a llegar, ¿sí? Si no te respondo eso y me olvido dentro de tres filminas, recordámelo, Dale, gracias.
+
+53:37 - lse posgrados
+Nada.
+
+53:37 - lse posgrados
+Antes que pases de Filipina, sí. Una sola cosa para que tengan en cuenta, porque después preguntan, ¿puedo hacer el taller A y B en el mismo bimestre, por ejemplo? Y es imposible. Claro. Sepan que el taller A y B no es un taller donde van a hacer su trabajo. Se espera que lleguen a ese taller con su trabajo casi terminado. Porque el taller A y B, ¿para qué sirven? Para escribir la memoria del trabajo final. O sea, para escribir lo que hicieron. O sea, que si no lo hicieron, no pueden llegar al taller a escribir porque no van a tener nada para escribir. Eso básicamente. Y después el taller A y B son dos partes distintas, consecutivas, sí o sí. O sea, en taller A empiezan y el taller B retoma lo que hicieron en taller A y se termina. O sea que no se pueden hacer en simultáneo. Son sí o sí en ese orden. Eso nada más para que conozcan.
+
+54:26 - Federico G. Zacchigna
+Ahora vamos a repasar un poco los criterios para poder cursar los requisitos, no los criterios, para poder cursar cada una de estas materias. Justamente para cursar la primera, que es gestión de proyectos, tiene que tener una propuesta aprobada, por mí, propuesta aprobada, les repito, es solamente una propuesta, que son dos carillas, cuando quieran les pasamos algunos ejemplos de propuestas, es muy cortita la idea, pero lo que buscamos ahí es ver que sea viable, que tenga el alcance adecuado, se utilicen los conocimientos de la carrera, y que no haya ningún problema con cuestiones de acceso a los datos, de disponibilidad de los datos, porque pueden haber varios problemas, o que tengan que armar un dataset, y a veces muchas personas consideran que es una tarea bastante fácil, la subestiman y después pierden mucho tiempo en eso. Entonces, la idea de aprobar una propuesta no es hacerle las cosas más difíciles, sino todo lo contrario, asegurarse de que luego no van a tener ningún tipo de complicación desde el punto de vista del desarrollo del trabajo, que el alcance sea válido y demás, y después que ningún jurado, director o lo que sea se las rechace porque la propuesta no es de inteligencia artificial, por ejemplo. Y en todo caso, por ejemplo, en relación a los datos, si no puede haber algún potencial problema con los datos, que al menos sean conscientes de eso, ¿sí? Sí, Martín. Buenas tardes.
+
+56:05 - Martin Lacheski
+Yo quería hacer una consulta, pero porque me tengo que ir, tengo que dar clase ahora a las seis. Sí. Por el la materia análisis de datos, aprovechando que está Karina. Sí. Yo vengo de las seis IOT y yo ya como optativa en su momento la materia de análisis de datos. Quería saber si tengo que volver a cursarla o tengo que elegir alguna otra como optativa.
+
+56:38 - lse posgrados
+Te podemos responder después Martín, nunca nos pasó. Para dejar acá y después continuamos vía mail, pero bueno.
+
+56:47 - Federico G. Zacchigna
+Si es un caso bastante particular, imagino que se podrá tomar alguna consideración pero queremos decir ahora algo que tomamos la pregunta y después por correo listo perfecto bueno yo me retiro muchas gracias bueno vamos a meterle pata que me acabo de dar cuenta que faltan tres minutos para seis entonces decíamos una propuesta aprobada pero la parte aprobada tiene que ver con ayudarlos a que sea una propuesta adecuada para la carrera el director no es obligatorio desde el principio, pero sí necesitan un director en algún momento, ¿sí? Lo ideal es que lo consigan en el, ante cursar GDP, o en las primeras dos semanas cuando están cursando GDP, que ya tengan el director. Si no lo tienen, no importa, pueden cursar la materia igual, lo que sucede es que la aprobación queda sujeta, que luego consigan un director y que el director del ok, del plan de trabajo que ustedes elaboraron en gestión de proyectos. Continuamos. Las dos propuestas que acá Sí, Cesar.
+
+57:52 - Cesar Orellana
+Ahí tengo una consulta con respecto al director. Ustedes nos proponen procesar a lo que podamos... Bien, te respondo.
+
+58:04 - Federico G. Zacchigna
+Con respecto al director, es una cuestión que es una tarea que hay que tener en cuenta, la búsqueda de director, En general, yo digo que hay cuatro pasos. El primero es que ustedes consigan uno por su lado, no sé, un colega en su laburo, alguien que ustedes conozcan de algún lado. Eventualmente, si tienen una propuesta que es de su trabajo, que sea de su trabajo. Si tienen una propuesta que es de alguna empresa, que sea de una empresa que llamamos el programa de vinculación, que ahora lo explicamos, también que quizás esa misma empresa sea quien propone el director. Si eso falla, Vamos a un segundo punto donde, bueno, en realidad eso es lo que acabo de decir en los primeros dos puntos, que sea alguien que ustedes conozcan o que esté vinculado, digamos, a quien haya hecho la propuesta. Tercer punto es que empiecen a buscar en lo que nosotros llamamos el archivo histórico. En el archivo histórico están todas las propuestas y trabajos que se defendieron, entonces ahí tienen montones de ex-alumnos y ex-directores si entonces buscan algún trabajo que sea similar a lo que ustedes están por desarrollar y entonces nos piden los contactos, se los pasamos, ustedes contactan a estas personas y muchas veces eso funciona muy bien cuando los primeros dos puntos fallan y en un cuarto punto, una cuarta etapa, sería ya una búsqueda más artesanal, si falló todo lo demás, bueno, tenemos que empezar a ver, a analizarlo un poco mejor, por qué falló, si la propuesta que es muy extraña, no es muy extraña, si es un tema muy particular, o por qué, ¿sí? ¿Por qué? ¿Por qué está costando tanto buscar un director? Esa es la búsqueda, así como digo, más artesanal, que no está bueno llegar a eso porque en general es bastante más lento y bueno, nada, hay que dedicarle un poco más de tiempo, ¿sí?
+
+1:00:00 - Unidentified Speaker
+Entonces...
+
+1:00:01 - Unidentified Speaker
+¿Sí?
+
+1:00:01 - Federico G. Zacchigna
+¿Se entendió?
+
+1:00:02 - Federico G. Zacchigna
+Sí, sí, sí.
+
+1:00:03 - Unidentified Speaker
+Bien.
+
+1:00:03 - Federico G. Zacchigna
+Entonces, a lo que voy con eso, los asistimos de la manera que podemos, pero gran parte del trabajo también queda del lado de ustedes, si me encontraron, director. Bueno, los tipos de propuestas, como creo que había preguntado Lucia, son una propuesta personal, una idea propia totalmente, y entonces ahí si tienen una idea que saben que es viable y demás, simplemente escriben la propuesta, la mandan y la evaluamos, si necesitan algún consejo o algo, también me pueden contactar para decir, che, voy por este lado, me gustaría hacer algo de esto, ¿está bien?, ¿hasta dónde le alcanza? Y todo eso, ¿sí? Me pueden contactar, así los ayudo a delinear la propuesta. También hay propuestas que ya tienen, pueden ser, las llamamos laboral o con vínculo previo, están laburando en alguna empresa, o si laburaron en alguna empresa o algo similar donde ustedes tienen un vínculo con alguien y ese alguien tiene una necesidad Bueno, esta sería esa categoría, creo que esa era la consulta específica que me habían hecho. Y por último, hay lo que llamamos el programa de vinculación, donde tenemos nosotros por nuestro lado, nos vamos vinculando, nos van contactando empresas o entes, diferentes entes, como por ejemplo grupos de investigación, laboratorios, en donde los laboratorios tienen alguna inquietud o alguna propuesta o alguien, por ejemplo, de Facultad de Agronomía, que tiene alguna problemática que cree que se puede resolver con inteligencia artificial, y nosotros nos ocupamos de elaborar una propuesta válida, y una vez que la propuesta está aprobada, simplemente las ponemos a disposición de ustedes, y ustedes van, las revisan, esta me gusta, esta no me gusta, y si hay alguna que les gusta, directamente en la misma propuesta, y se puede contactar directamente con la persona que la propuso, que en este caso la llamamos cliente, en realidad siempre quien propone, quien hace la propuesta, es el que llamamos el cliente, y el cliente no necesariamente, como para que entiendan bien la diferencia, tiene que saber de inteligencia artificial, en el ejemplo de alguien de agronomía que hace la propuesta, quizás sabe bien sobre la floración, de tal o cual especie, pero no entiende de inteligencia artificial. Para la parte de inteligencia artificial es que existe el director. El director siempre tiene que tener conocimiento en inteligencia artificial. Es quien nos va a guiar la parte técnica. Y el cliente puede ser el mismo, a veces puede ser el mismo director, puede tomar los dos roles, pero a veces es una persona diferente que no sabe exactamente de inteligencia artificial, sino del problema propuesto.
+
+1:02:52 - Unidentified Speaker
+Bien.
+
+1:02:52 - Federico G. Zacchigna
+Y ahí está lo que ahora les mencionaba, Cari, sobre las encuestas, donde hay tres partes, directores, equipo de dirección, o director, cliente y alumno, ¿sí? Y ahí es que hay encuestas que deben responder, simplemente para nosotros poder hacer un seguimiento de cómo vienen desarrollando su trabajo final. Bien. Creo que me adelanté un poquito, sí, pero en el programa de vinculación pueden ser empresas, laboratorios, organismos, estas propuestas están preaprobadas, o sea, solamente las tienen que elegir, se las vamos a dar, les vamos a dar acceso cuando estén listas y cuando ustedes tengan condiciones de elegir una propuesta, y la ventaja es que ya están preaprobadas y muchas veces la empresa, muchas veces, no siempre, pero la misma empresa a veces el director para el trabajo, ¿sí?
+
+1:03:49 - Lucia T. Capon Paul
+Perdón que te corté. No hay problema. Entonces, el director o la directora puede no ser alguien dentro de la especialización, o sea, puede ser cualquier persona.
+
+1:04:02 - Unidentified Speaker
+Exactamente. Perfecto.
+
+1:04:02 - Lucia T. Capon Paul
+Gracias.
+
+1:04:03 - Lucia T. Capon Paul
+Lo único, lo importante del director es justamente eso que está acá.
+
+1:04:09 - Federico G. Zacchigna
+Tiene que ser idóneo en el tema del trabajo, pero inteligencia, perdón, acá está, quizás está un poco confuso, acá estamos hablando de la parte de inteligencia artificial del trabajo, ¿sí? Por ahí no sabe esto que decíamos sobre las floras, o no se hacen imágenes, ¿sabe hacer procesamiento de imágenes con inteligencia artificial? Eso es lo que tiene que saber el director. Pero después, por ahí, ¿con qué vincular, con qué métrica relacionada al periodo de floración, o al periodo del momento óptimo de cosecha, y eso quizás lo sabe el cliente, o a veces cliente y director son la misma persona y saben todas esas cuestiones, ¿sí? Para ser director es ideal que tenga un título de especialización, maestría o doctorado, si no lo tiene hay que hacer una evaluación de su CV un poquito más profunda para ver si es adecuado o no, ¿sí? Y cuando tiene un título de especialización no puede ser un título de especialización en un área que no tenga nada que ver con inteligencia artificial, ¿sí? Porque le buscamos justamente la eternidad. Justamente su trabajo es asistirlos técnicamente y nosotros evaluamos, cuando hay dudas sobre alguno tienen que sí o sí presentar el CV del director y se realiza una evaluación y les decimos si está bien o no. Para lo que es el codirector puede ser casi cualquier persona, en realidad un codirector es una persona que podamos sumar que a veces no tiene los requisitos formales. ¿Por qué hablamos de requisitos formales? Porque en algún momento cuando ustedes están presentando su trabajo formal pasa por una comisión de evaluación, ya no nosotros, sino algo de la facultad, y si hay un director que por ahí no tiene título de especialización, van a hacer este mismo proceso de evaluarlo, y que en ese momento lo rechacen, es algo que no está bueno, que suceda, entonces muchas veces pasa que hay una persona que es muy buena técnicamente y que se suma un montón, bueno, a esta persona la podemos sumar como co-director, ¿sí? Bien. Y tienen los requisitos, ¿sí? Justamente esa es la ventaja. Gente, la... ¿Visto? No sé por qué quedó así. Bueno, para cursar TTA, esto es lo que les decía, tienen que tener un 75% de la parte técnica de su trabajo aprobada, ¿sí? El desafío técnico casi tiene que estar encalado y casi resuelto, ¿sí? No se puede cursar inmediatamente después de GDP, por esto que expliqué, salvo excepciones. ¿Sí? Que es porque ya el trabajo, el plan de trabajo se hizo medio retroactivamente, o porque hubo un receso en el medio, o lo que sea. ¿Sí? Que lo que permita verificar que ustedes ya tengan ese setenta y cinco por ciento del trabajo avanzado. Justamente lo explicaba Cari, es para la redacción y ayuda a escribir la memoria de tesis, a presentar los resultados, y a analizarlos, no a obtener los resultados, ¿sí? Las modalidades son días específicos, pero es una modalidad semisincrónica, o sea, no tienen que cursar todos los días, sino que se van haciendo como más entregas, ¿sí? Eso, cuando lleguen a cursar, sepan que va por ese lado la cursada. Bien, y hasta ahí lo que es en relación al trabajo final. ¿Quieren hacer alguna consulta antes de pasar a la la última parte. Disculpen si estoy hablando un poco rápido, pero estamos ya un poquito retrasados. Continúo. Bueno, bien, este es el tema de trabajo final. Asumimos que lo terminaron. Si alguno quiere continuar sus estudios, tenemos varias opciones para ofrecerles. Lo primero sería, después de hacer lo que es la de la carrera de especialización en inteligencia artificial, continuar con la maestría. En la maestría se da, vieron que hablamos de diferentes áreas de la inteligencia artificial, bueno, básicamente se completan todas esas áreas, haciendo varias de estas materias que ustedes también pueden usar como optativas. En caso de que ocurra alguna materia como optativa de la maestría, luego deben reemplazarla por otra materia más de la maestría. Acá hay una cosa que nos quedó desactualizada, pido disculpas, hay un curso optativo menos en la maestría, detalle, ¿sí? Pero bueno, esto es lo que es la continuación natural, ¿sí? De la carrera de especialización en inteligencia artificial. Por otro lado, tenemos lo que llamamos las maestrías combinadas, en las maestrías combinadas se hace haciendo la carrera de especialización en inteligencia artificial y la carrera de especialización en sistemas embebidos, y entonces se obtiene el título de maestría en inteligencia artificial embebida. Hay algunas condiciones extras sobre qué tipo de, cuando llegan a maestría, qué tipo de trabajo final pueden presentar, porque el trabajo final tiene que tener una parte de cada una de las dos carreras de especialización. Una maestría en computación de borde, que se consigue haciendo la CEIA, y luego la carrera de especialización en Internet de las Cosas, nuevamente aplican lo mismo que acabamos de decir. Y por último les presentamos, sí, esas son las continuación, las tres posibilidades de continuar en maestrías, habiendo hecho la CEIA. Maestría en Inteligencia Artificial, en Inteligencia Artificial en Bebida, y en Computación de Orden.
+
+1:10:14 - Unidentified Speaker
+Sí, Martín.
+
+1:10:15 - Federico G. Zacchigna
+Llegado el caso... ¿Llegado el caso? ¿Se pueden cursar las tres optativas?
+
+1:10:22 - Unidentified Speaker
+¿Hablás de?
+
+1:10:23 - Unidentified Speaker
+¿Llegado el caso?
+
+1:10:24 - Federico G. Zacchigna
+Hacer una más que la que dice el programa.
+
+1:10:29 - Martín Madrid Wagner
+Ah.
+
+1:10:29 - Federico G. Zacchigna
+O sea, como dice la la diapositiva, o sea, que mostraste, pero dijiste que estabas.
+
+1:10:36 - Unidentified Speaker
+En maestría o en. Maestría.
+
+1:10:38 - Federico G. Zacchigna
+Eso. Sí, acá hay un tema es que muy posiblemente el curso uno de los política, ¿sí? Es una de las cuestiones que tienen más que ver con algo burocrático que eh que sobre la cantidad de materias que podés cursar eh cuando tengas una duda sobre eso si querés nos preguntás específicamente porque justamente es un cambio que se está haciendo ahora y por eso no me vale la pena meterse ahora quizás sí lo que quiere lo que va a decir Kari que por ahí es una pregunta bastante normal que era lo que ibas a responder sobre hacer optativas de las que figura en el plan.
+
+1:11:16 - Unidentified Speaker
+Perfecto. Kari, ¿querés contarnos vos?
+
+1:11:18 - lse posgrados
+No quiero meter la pata porque ha pasado que alguno quiere ser una optativa y otra y otra y otra y termina haciendo otra carrera adentro de la carrera y no es la idea desde ningún punto de vista que hagan eso pero si de repente ya hicieron las optativas que en la sella, ni hablemos de la mía, en la sella ya hicieron las optativas que les corresponden y de repente se da, se ofrece otra optativa que les resulta de interés, nos han pedido si la pueden cursar como oyente, porque las obligatorias ya las hicieron y en general no hay ningún problema, en general, no digo siempre, por eso que le decía, alguno que quiere cursar todos los bimestres y es como yo.
+
+1:12:01 - Federico G. Zacchigna
+Si, hay un límite, o sea, en algunos casos hemos dejado que cursen alguna como oyente, pero bueno, eso está un poco De repente teníamos demasiadas personas.
+
+1:12:11 - lse posgrados
+Abuso, sí.
+
+1:12:12 - lse posgrados
+Entonces lo estamos como con pinzas, se puede. Pero en general sí, si hiciste las dos obligatorias y justo se ofreció una que te interesa o que justo tiene relación con tu trabajo final, lo que sea, no va a haber problema en que la curses como oyente, porque ya no necesitas cursar más materias.
+
+1:12:32 - Federico G. Zacchigna
+Y después siempre se pueden pagar como si fueran cursos.
+
+1:12:35 - Unidentified Speaker
+También, eso es otra opción.
+
+1:12:37 - Federico G. Zacchigna
+cosas como quieran, y de la manera que quieran. Bien, continuando, estas serán las continuaciones, las tres posibles maestrías que pueden hacer después de la carrera de especialización, y a modo de informativo, les comentamos un poco sobre todas las carreras que tenemos, tenemos diplomaturas que son más cortitas, más cortitas en la cantidad de carga horaria, pero algunas también están desarrolladas en cinco semestres, otras hay inclusive una que está creo que en siete bimestres, pero son más cortas, porque se hace una materia por bimestre, por ahí, ¿sí? Inteligencia Artificial Aplicada, que es una materia bastante introductoria, donde está apuntada gente inclusive que quizás no viene con un background de programación, una materia, una diplomatura que es solamente para el procesamiento del lenguaje natural, otra que es solamente la rama de visión por computadora, otra que es la rama de aprendizaje por refuerzo, y agrupamientos evolutivos. Esas son las de inteligencia artificial y después tenemos tres diplomaturas en sistemas en medios, nivel 1, 2 y 3. La verdad que nivel 1, 2 y 3 sabemos que no dice mucho el nombre, pero bueno, los invitamos a revisar los contenidos de cada una de estas diplomaturas en la web. Después tenemos una que es desarrollo de PCB, que es FANICWARE Circuit, los circuitos electrónicos, ¿sí? Internet de las, una de Internet de las Cosas, otra más de Internet de las Cosas, pero centrada más en los protocolos y ciberseguridad, una de microelectrónica digital para diseño de circuitos integrados, es la misma, pero para diseño de circuitos integrados analógicos, y tenemos otras carreras de especialización, bueno, la carrera de especialización en inteligencia artificial, Internet de las Cosas, sistemas embebidos, que ya se las presentamos un poquito, la especialización en microelectrónica, especialización en procesamiento digital, y acá falta una que es la de especialización, la de espacial, ¿sí? Sí, tenemos caritas espaciales.
+
+1:14:43 - lse posgrados
+Exactamente, gracias Cari.
+
+1:14:45 - Federico G. Zacchigna
+Se hizo. Exactamente, me olvidé de agregarla, pero en la web la van a poder encontrar. Y bueno, en las maestrías, son las que les decíamos, maestría en inteligencia artificial, maestría en sistemas de medida y procesamiento digital, maestría en internet de las cosas, y ya las combinadas, que son maestría en inteligencia artificial en medida, maestría en computación de borde, también combinada, y creo que no me faltó ninguna más. Bien, llegamos al final. Ahora sí, hay alguna pregunta que quieran Sí, Lucia.
+
+1:15:24 - Lucia T. Capon Paul
+Entiendo que entonces toda la cursada es pura y exclusivamente virtual y online. Obviamente va a depender de cada materia, pero entonces ¿cómo es la manera de aprobación de las materias? O sea, ¿son a través de trabajos prácticos, es a través de exámenes, es a través de…?
+
+1:15:44 - Federico G. Zacchigna
+Cada materia tiene su modalidad de aprobación, en algunos casos será un examen a responder, puede ser online, pero la verdad es que en la mayoría de los casos es a través de entrega de trabajos prácticos, en algunos casos se hacen varias entregas a lo largo de la cursada, quizás dos o tres, en otros casos es un trabajo final y se entrega eso, en algunos casos también se suma en trabajo final alguna especie de defensa oral, depende de la materia, ¿sí? Lo importante es que en la materia te van a decir la modalidad de aprobación digamos que tengas y desde el comienzo de la cruzada digamos.
+
+1:16:22 - Lucia T. Capon Paul
+Sí, pensaba que en algún momento iba a haber que ir a FIUBA y no entendía eso.
+
+1:16:28 - Federico G. Zacchigna
+No, no, no tenés que, para nada, no hace falta, para uno no tenés que venir. Para el evento de fin de año. Para el evento de fin de año.
+
+1:16:39 - Unidentified Speaker
+Pocas explicativas.
+
+1:16:40 - Federico G. Zacchigna
+Sí que sí.
+
+1:16:41 - Unidentified Speaker
+Bárbaro, gracias.
+
+1:16:42 - Federico G. Zacchigna
+de nada.
+
+1:16:43 - Federico G. Zacchigna
+¿Hay alguna otra pregunta? ¿Entendió todo o no se entendió nada?
+
+1:16:50 - lse posgrados
+Porque hay más preguntas. Hoy es martes, mañana, no creo, el jueves tal vez, entre jueves y viernes, les vamos a mandar un correo con los accesos a las Es decir, en sus calendarios de Google van a tener todas las clases ya programadas de las tres materias del primer trimestre, son ocho clases cada materia, ¿sí? Los días, no sé si los tienen ya, pero si no, les digo, Inteligencia Artificial los lunes, o sea, empiezan el lunes, lunes, ¿no, Fede? El lunes 20, Inteligencia Artificial. Me perdí. Me perdí, ¿qué día es Martín? ¿Análisis temático los miércoles? Miércoles, sí, o martes. Bueno, les vamos a mandar, en realidad les vamos a mandar un correo informando, pero los eventos les van a aparecer en el calendario de Google.
+
+1:17:55 - Lucia T. Capon Paul
+Ok, discúlpame, y si llegáramos a tener un inconveniente con uno de esos días, ya déjame semana?
+
+1:18:02 - lse posgrados
+Nos escribís a gestión y ahí lo vemos. Dale, te asisto. Igual lo puedo abrir yo acá...
+
+1:18:12 - Federico G. Zacchigna
+Sí, igual quería aprovechar para mostrarles esto, a pesar de que... Acá la consulta que hablábamos de los cursos, es para el próximo semestre, 2025 B5. Voy a sacar la pantalla acá está cargando. Esto es lo que decimos que estamos en proceso de mejorarlo, pero tarda un ratito, ¿sí? Y acá tienen la información de los cursos que se van a dar el próximo bimestre.
+
+1:18:47 - lse posgrados
+Lunes, martes y jueves. Ahí está. Lunes, martes y jueves, en este primer bimestre. ¿Les podés lucir a esos días?
+
+1:18:57 - Unidentified Speaker
+Sí, no van a recibir ningún mail.
+
+1:19:00 - lse posgrados
+Gracias. Bueno, si no hay más consultas... Después les mandamos la presentación por correo de lo que vimos hoy, el link a la grabación para que lo puedan ver de vuelta si se perdieron o el que no vino a la charla que lo para que lo pueda ver. Y qué más. Y bueno, como les decía, entre jueves y viernes les mandamos el correo con toda la información de las materias, los eventos, las cosas a tener en cuenta para arrancar. Sí, Luis. Luis será que no le han dado el micrófono? A lo mejor si escribís en el chat. Sí, no hay problema.
+
+1:20:02 - Unidentified Speaker
+Si querés escribir la consulta.
+
+1:20:12 - lse posgrados
+El resto, ¿todo bien?
+
+1:20:22 - Gabriel Quiroga
+Todo claro, yo te voy a salir, así que muchas gracias.
+
+1:20:29 - lse posgrados
+No hay problema. Bueno, nos vemos. Listo. Chau, muchas gracias. Chau, Lucia. Chau, muchas gracias.
+
+1:20:37 - Federico G. Zacchigna
+Bueno, si te pasó con la pregunta de Luis.
+
+1:20:43 - lse posgrados
+Cuando tengas la pregunta te la respondemos. Quería consultar para preguntar qué materias conviene hacer en el caso que haya materias más pesadas en contenido que otro. Bueno, por ejemplo, si vos quisieras cursar solo dos del primer bimestre. Pongo el cronograma para que lo tengas presente.
+
+1:21:00 - Unidentified Speaker
+Sí.
+
+1:21:00 - lse posgrados
+O sea, sería entre inteligencia, o sea, inteligencia artificial no podrías no hacerla porque es como que te da la base para un montón de cosas. Sería como la introducción a la carrera. Así que esa yo la haría Para mí, si tenés que dejar de lado una en el primer bimestre, lamentablemente sería análisis matemático. Digo lamentablemente porque te da una base fuerte para muchas cosas, pero si dejas análisis de datos para el segundo, después vas a tener problemas de superposición de conocimientos con otras materias en simultáneo.
+
+1:21:37 - Federico G. Zacchigna
+No sé vos, Fede, qué opinás, pero si...
+
+1:21:41 - Unidentified Speaker
+Inteligencia artificial, seguro. Yo creo que sí.
+
+1:21:44 - Federico G. Zacchigna
+Y después yo creo que depende de tu perfil, si decís a nadie de matemático, no sé, vengo de terminar una carrera de ingeniería en alguna cuestión o alguna carrera así bastante técnica y decís, crees que no tienes ningún drama ni con análisis matemático ni prueba, listo, vas por análisis de datos, eventualmente ponés algo al revés y capaz hiciste algo de análisis de datos, pero que querés repasar un poco más análisis matemáticos vas por ese lado.
+
+1:22:14 - lse posgrados
+Pensá que si el trabajo no lo tenés pensado tempranamente en la carrera, el trabajo final, el proyecto se te va a correr, entonces ahí en segundo bimestre tenés oportunidad de acomodar, digamos, la que no hayas hecho en el primer mestre, la metés ahí y te fijás, a lo mejor en el segundo bimestre tenés tiempo para hacer tres, o a lo mejor no, pero O sea, vas a tener como posibilidad ahí de acomodarte. Lo único que sí o sí, inteligencia artificial, hazla en el primer bimestre.
+
+1:22:46 - Federico G. Zacchigna
+Sí, eso seguro. Después, si por ahí, eventualmente, el primer bimestre podés hacer las tres y después bajar a dos, también es una buena idea. Sí. Pero bueno, depende eso ya de tu caso particular, ¿no?
+
+1:23:02 - Cesar Orellana
+Bueno, yo tengo una consulta más. Sí. ¿Es posible cursar más de una optativa? Es decir, acá hay que hacer dos optativas obligatoriamente, pero uno puede cursar una tercera optativa en el sexto bimestre, por ejemplo. Es lo que hablábamos antes, o sea, obligatorio.
+
+1:23:20 - lse posgrados
+Tenés que hacer dos sí o sí. Si de repente aparece una tercera que te dan ganas de hacer porque te resulta interesante, podrías hacerla, no había problema. Ahora, si vos todos los bimestres querés hacer una, dos o tres optativas, entonces eso ya no se te va a permitir porque no es la idea de la carrera hacer ese ritmo ni esa carga horaria de materias. Pero sí, una tercera optativa que te interese, en general algunos alumnos la piden y no hay problema.
+
+1:23:52 - Federico G. Zacchigna
+Sí, general, igual siempre eso depende mucho de cada caso, lo más fácil es que cuando tengas pensado cuál querés hacer, en qué momento y demás que nos escribas, ¿sí? Claro.
+
+1:24:06 - Cesar Orellana
+Y se define ahí.
+
+1:24:08 - Unidentified Speaker
+Perfecto.
+
+1:24:09 - lse posgrados
+Bueno, no sé si tenés alguna otra consulta, se quedó ahí Jose, no sé si estás, tenés alguna pregunta.
+
+1:24:19 - Federico G. Zacchigna
+Sí, estoy aquí, todo claro. Bueno. Bueno, buenísimo. Luis, Cesar y Jose, si no hay más preguntas, Vamos entonces, perfecto. Igualmente.
+
+1:24:32 - Unidentified Speaker
+Gracias, igualmente.
+
+1:24:34 - Federico G. Zacchigna
+Chao, chao, nos vemos.
