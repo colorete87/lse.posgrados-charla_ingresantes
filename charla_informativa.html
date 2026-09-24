@@ -76,9 +76,17 @@
 
     #footer-center {
       position: absolute;
-      bottom: 0;
+      bottom: 6px;
       left: 50%;
       transform: translateX(-50%);
+      color: #1a252c;
+      background: rgba(255, 255, 255, 0.85);
+      padding: 2px 14px;
+      border-radius: 12px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+      z-index: 10;
     }
 
     /* Horizontal line above footer */
@@ -111,14 +119,9 @@
         <h3>Charla informativa</h3>
         <h4>Carreras de Inteligencia Artificial</h4>
         <p><small>
-            Ariel Lutenberg - Director (<a href="mailto:alutenb@fi.uba.ar">alutenb@fi.uba.ar</a>)<br>
-            Pablo Gomez - Codirector (<a href="mailto:pgomez@fi.uba.ar">pgomez@fi.uba.ar</a>)<br>
-            Federico G. Zacchigna - Coordinador Académico (<a
+            Coordinación Académica (<a
               href="mailto:coordinacion.academica.ia.lse@fi.uba.ar">coordinacion.academica.ia.lse@fi.uba.ar</a>)<br>
-            Carina, Paloma y Sol - Gestión (<a
-              href="mailto:gestion.academica.lse@fi.uba.ar">gestion.academica.lse@fi.uba.ar</a>)<br>
-            Carina - Inscripción (<a href="mailto:inscripcion.lse@fi.uba.ar">inscripcion.lse@fi.uba.ar</a>)<br>
-            Virginia - Títulos (<a href="mailto:titulos.lse@fi.uba.ar">titulos.lse@fi.uba.ar</a>)<br>
+            Inscripción (<a href="mailto:inscripcion.lse@fi.uba.ar">inscripcion.lse@fi.uba.ar</a>)<br>
           </small></p>
         <p><small>
             @lse.posgrados:<br>
@@ -190,12 +193,44 @@
         <!-- Presentación del LSE -->
         <section data-auto-animate data-background-color="#DFFFE0" data-background-transition="zoom">
           <h3>🔬 Laboratorio de Sistemas Embebidos (LSE)</h3>
-          <ul>
-            <li class="fragment">Pertenece a la Facultad de Ingeniería de la Universidad de Buenos Aires (FIUBA).</li>
-            <li class="fragment">Formación académica orientada a la industria y la tecnología aplicada.</li>
-            <li class="fragment">Ecosistema integral: Inteligencia Artificial, Sistemas Embebidos, Internet de las Cosas
-              y Microelectrónica.</li>
-          </ul>
+          <div
+            style="display: flex; gap: 1.5rem; justify-content: center; align-items: stretch; margin-top: 1.5rem; text-align: left;">
+            <div
+              style="flex: 1; background: rgba(255,255,255,0.7); padding: 1.2rem; border-radius: 0.8rem; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
+              <h4 style="font-size: 1em; color: #1b4332; margin-bottom: 0.5rem;">🏛️ Institucional</h4>
+              <p style="font-size: 0.85em; color: #222; margin: 0;">Pertenece a la <strong>Facultad de
+                  Ingeniería</strong> de la <strong>Universidad de Buenos Aires (FIUBA)</strong>.</p>
+            </div>
+            <div
+              style="flex: 1; background: rgba(255,255,255,0.7); padding: 1.2rem; border-radius: 0.8rem; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
+              <h4 style="font-size: 1em; color: #1b4332; margin-bottom: 0.5rem;">🏭 Enfoque Profesional</h4>
+              <p style="font-size: 0.85em; color: #222; margin: 0;">Formación académica de posgrado orientada a las
+                necesidades de la <strong>industria y la tecnología aplicada</strong>.</p>
+            </div>
+            <div
+              style="flex: 1; background: rgba(255,255,255,0.7); padding: 1.2rem; border-radius: 0.8rem; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
+              <h4 style="font-size: 1em; color: #1b4332; margin-bottom: 0.5rem;">🌐 Ecosistema Integral</h4>
+              <p style="font-size: 0.85em; color: #222; margin: 0;">Formación continua en <strong>Inteligencia
+                  Artificial</strong>, <strong>Sistemas Embebidos</strong>, <strong>Internet de las Cosas</strong> y
+                <strong>Microelectrónica</strong>.
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <!-- Web de Posgrados -->
+        <section data-auto-animate data-background-color="#DFFFE0" data-background-transition="zoom">
+          <h3>🌐 Sitio web oficial de posgrados</h3>
+          <div style="text-align: center; margin-top: 0.5rem;">
+            <a href="https://lse-posgrados.fi.uba.ar" target="_blank"
+              style="font-size: 0.9em; font-weight: bold; color: #0056b3; text-decoration: underline; display: inline-block; margin-bottom: 0.5rem;">
+              🔗 https://lse-posgrados.fi.uba.ar
+            </a>
+            <div>
+              <img src="images/web.png"
+                style="max-height: 500px; width: auto; border-radius: 0.8rem; box-shadow: 0 6px 15px rgba(0,0,0,0.2); border: 2px solid #ccc; background: #fff;">
+            </div>
+          </div>
         </section>
 
         <!-- Oferta Resumida de Posgrados -->
@@ -261,31 +296,38 @@
           </div>
         </section>
 
-        <!-- DVpC -->
+        <!-- Tres ramas principales VpC, PLN y RL -->
         <section data-auto-animate data-background-color="#FFF3C4" data-background-transition="zoom">
-          <h3>👁️ Inteligencia Artificial - Visión por Computadora (DVpC)</h3>
-          <div style="text-align: center; margin-top: 1rem;">
-            <img src="images/diagramas_de_materias-DVpC.drawio.png"
-              style="height: 350px; border-radius: 1rem; background: transparent;">
+          <h3>🧠 Diplomaturas en ramas específicas de la IA</h3>
+          <div
+            style="display: flex; justify-content: center; align-items: flex-start; gap: 1.2rem; margin-top: 0.8rem;">
+            <!-- DVpC -->
+            <div
+              style="flex: 1; text-align: center; background: rgba(255,255,255,0.5); padding: 0.6rem; border-radius: 0.8rem;">
+              <h4 style="font-size: 0.85em; margin-bottom: 0.4rem;">👁️ Visión por Computadora (DVpC)</h4>
+              <img src="images/diagramas_de_materias-DVpC.drawio.png"
+                style="max-height: 250px; width: 100%; object-fit: contain; border-radius: 0.5rem; background: transparent;">
+            </div>
+            <!-- DPLN -->
+            <div
+              style="flex: 1; text-align: center; background: rgba(255,255,255,0.5); padding: 0.6rem; border-radius: 0.8rem;">
+              <h4 style="font-size: 0.85em; margin-bottom: 0.4rem;">🗣️ Lenguaje Natural (DPLN)</h4>
+              <img src="images/diagramas_de_materias-DPLN.drawio.png"
+                style="max-height: 250px; width: 100%; object-fit: contain; border-radius: 0.5rem; background: transparent;">
+            </div>
+            <!-- DRLAE -->
+            <div
+              style="flex: 1; text-align: center; background: rgba(255,255,255,0.5); padding: 0.6rem; border-radius: 0.8rem;">
+              <h4 style="font-size: 0.85em; margin-bottom: 0.4rem;">🧬 Refuerzo y Evolutivos (DRLAE)</h4>
+              <img src="images/diagramas_de_materias-DRLAE.drawio.png"
+                style="max-height: 250px; width: 100%; object-fit: contain; border-radius: 0.5rem; background: transparent;">
+            </div>
           </div>
-        </section>
-
-        <!-- DPLN -->
-        <section data-auto-animate data-background-color="#FFF3C4" data-background-transition="zoom">
-          <h3>🗣️ Inteligencia Artificial - Procesamiento del Lenguaje Natural (DPLN)</h3>
-          <div style="text-align: center; margin-top: 1rem;">
-            <img src="images/diagramas_de_materias-DPLN.drawio.png"
-              style="height: 350px; border-radius: 1rem; background: transparent;">
-          </div>
-        </section>
-
-        <!-- DRLAE -->
-        <section data-auto-animate data-background-color="#FFF3C4" data-background-transition="zoom">
-          <h3>🧬 Inteligencia Artificial - Aprendizaje por Refuerzo y Algoritmos Evolutivos (DRLAE)</h3>
-          <div style="text-align: center; margin-top: 1rem;">
-            <img src="images/diagramas_de_materias-DRLAE.drawio.png"
-              style="height: 350px; border-radius: 1rem; background: transparent;">
-          </div>
+          <p
+            style="font-size: 0.8em; color: #333; background: rgba(255,255,255,0.6); padding: 0.8rem 1.2rem; border-radius: 0.5rem; max-width: 900px; margin: 1rem auto 0 auto; line-height: 1.4;">
+            💡 Las diplomaturas específicas (<em>DVpC, DPLN y DRLAE</em>) están conformadas por un subconjunto de las
+            materias que integran la <strong>CEIA</strong> y la <strong>MIA</strong>.
+          </p>
         </section>
       </section>
 
@@ -302,16 +344,6 @@
         <section data-background-color="#F7D9C4" data-background-transition="zoom">
           <h2>🤖 Carrera de Especialización en Inteligencia Artificial (CEIA)</h2>
           <p>Estructura y recorrido detallado por las materias de la CEIA.</p>
-        </section>
-
-        <!-- CEIA y Diplomaturas como Subsets -->
-        <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
-          <h3>🤖 CEIA y su relación con las Diplomaturas</h3>
-          <p
-            style="font-size: 0.85em; color: #333; background: rgba(255,255,255,0.6); padding: 1rem; border-radius: 0.5rem; max-width: 800px; margin: 1.5rem auto;">
-            💡 <strong>Relación con Diplomaturas:</strong> Las diplomaturas específicas (<em>DVpC - Visión por
-              Computadora, DPLN - Lenguaje Natural, DRLAE - Refuerzo y Evolutivos</em>) son subconjuntos (<em>subsets</em>) de las materias que integran la CEIA y la MIA.
-          </p>
         </section>
 
         <!-- Materias básicas -->
@@ -527,12 +559,15 @@
             </div>
             <div style="font-size: 2em;">+</div>
             <div style="flex: 0 0 auto;">
-              <img src="images/diagramas_de_materias-MIA.drawio.png"
+              <img src="images/diagramas_de_materias-CESE.drawio.png"
                 style="height: 300px; border-radius: 1rem; background: transparent;">
             </div>
           </div>
           <ul>
-            <li>Articulación entre la <strong>CEIoT</strong> y materias avanzadas de la <strong>MIA</strong>.</li>
+            <li>Se obtiene completando la <strong>CEIoT</strong>
+              (Especialización en Internet de las Cosas) y la
+              <strong>CESE</strong> (Especialización en Sistemas Embebidos).
+            </li>
           </ul>
         </section>
       </section>
@@ -611,19 +646,21 @@
         <!-- 4. TTFA y TTFB -->
         <section data-auto-animate data-background-color="#E6E6FA" data-background-transition="zoom">
           <h3>📝 TTFA y TTFB - Características</h3>
-          <div style="display: flex; align-items: center; justify-content: center; gap: 2rem; margin-top: 2rem;">
+          <div style="display: flex; align-items: center; justify-content: center; gap: 2rem; margin-top: 1.5rem;">
             <div style="flex: 0 0 auto;">
               <img src="images/materias_proyectos.png"
-                style="height: 300px; border-radius: 1rem; background: transparent;">
+                style="height: 250px; border-radius: 1rem; background: transparent;">
             </div>
             <div style="max-width: 600px;">
               <ul>
-                <li><strong>Redacción:</strong> Ayuda para escribir la memoria/tesis</li>
+                <li><strong>Redacción:</strong> Acompañamiento y orientación para redactar la memoria/tesis</li>
                 <li><strong>Procesamiento:</strong> Análisis y presentación de resultados</li>
-                <li><strong>Modalidad:</strong> Días específicos + trabajo asincrónico</li>
-                <li><strong>Entregas:</strong> Sistema de entregas con devoluciones</li>
               </ul>
             </div>
+          </div>
+          <div
+            style="margin-top: 1.5rem; background-color: rgba(67, 97, 238, 0.12); border-left: 4px solid #4361ee; border-radius: 8px; padding: 0.8rem 1.2rem; font-size: 0.85em; text-align: center; color: #1a252c;">
+            💡 <strong>Acompañamiento en el cierre:</strong> Estas materias guían activamente al estudiante durante el proceso de cierre de la carrera, favoreciendo una elevada tasa de finalización.
           </div>
         </section>
       </section>
@@ -708,14 +745,9 @@
           data-background-image="https://img.freepik.com/free-vector/background-realistic-abstract-technology-particle_23-2148431735.jpg?semt=ais_hybrid&w=740">
           <h2>Gracias por su atención</h2>
           <p><small>
-              Ariel Lutenberg - Director (<a href="mailto:alutenb@fi.uba.ar">alutenb@fi.uba.ar</a>)<br>
-              Pablo Gomez - Codirector (<a href="mailto:pgomez@fi.uba.ar">pgomez@fi.uba.ar</a>)<br>
-              Federico G. Zacchigna - Coordinador Académico (<a
+              Coordinación Académica (<a
                 href="mailto:coordinacion.academica.ia.lse@fi.uba.ar">coordinacion.academica.ia.lse@fi.uba.ar</a>)<br>
-              Carina, Paloma y Sol - Gestión (<a
-                href="mailto:gestion.academica.lse@fi.uba.ar">gestion.academica.lse@fi.uba.ar</a>)<br>
-              Carina - Inscripción (<a href="mailto:inscripcion.lse@fi.uba.ar">inscripcion.lse@fi.uba.ar</a>)<br>
-              Virginia - Títulos (<a href="mailto:titulos.lse@fi.uba.ar">titulos.lse@fi.uba.ar</a>)<br>
+              Inscripción (<a href="mailto:inscripcion.lse@fi.uba.ar">inscripcion.lse@fi.uba.ar</a>)<br>
             </small></p>
           <p><small>
               @lse.posgrados:<br>
